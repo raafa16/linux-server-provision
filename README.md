@@ -1,6 +1,7 @@
 # Linux server provisioning script to deploy a rails 5 app.  
+Verified on Ubuntu 18.04
 
-# 1) !/bin/bash
+## 1) !/bin/bash
 
 set -e
 
